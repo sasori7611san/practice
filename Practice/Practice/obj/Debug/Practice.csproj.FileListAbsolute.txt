@@ -1,0 +1,11 @@
+C:\Users\lovea\Desktop\git\practice\practice\Practice\Practice\bin\Debug\Practice.exe.config
+C:\Users\lovea\Desktop\git\practice\practice\Practice\Practice\bin\Debug\Practice.exe
+C:\Users\lovea\Desktop\git\practice\practice\Practice\Practice\bin\Debug\Practice.pdb
+C:\Users\lovea\Desktop\git\practice\practice\Practice\Practice\obj\Debug\Practice.csproj.AssemblyReference.cache
+C:\Users\lovea\Desktop\git\practice\practice\Practice\Practice\obj\Debug\Practice.csproj.SuggestedBindingRedirects.cache
+C:\Users\lovea\Desktop\git\practice\practice\Practice\Practice\obj\Debug\Practice.OneLineMemo.resources
+C:\Users\lovea\Desktop\git\practice\practice\Practice\Practice\obj\Debug\Practice.Properties.Resources.resources
+C:\Users\lovea\Desktop\git\practice\practice\Practice\Practice\obj\Debug\Practice.csproj.GenerateResource.cache
+C:\Users\lovea\Desktop\git\practice\practice\Practice\Practice\obj\Debug\Practice.csproj.CoreCompileInputs.cache
+C:\Users\lovea\Desktop\git\practice\practice\Practice\Practice\obj\Debug\Practice.exe
+C:\Users\lovea\Desktop\git\practice\practice\Practice\Practice\obj\Debug\Practice.pdb
